@@ -28,7 +28,7 @@ BigchainDB is the blockchain database. This repository is for _BigchainDB Server
 
 ## Run and Test BigchainDB Server from the `master` Branch
 
-Running and testing the latest version of BigchainDB Server is easy. Make sure you have a recent version of [Docker Compose](https://docs.docker.com/compose/install/) installed. When you are ready, fire up a terminal and run:
+Running and testing the latest version of BigchainDB Server is easy. Make sure you have a recent version of [Docker](https://docs.docker.com/install/#supported-platforms) and [Docker Compose](https://docs.docker.com/compose/install/) installed. When you are ready, fire up a terminal and run:
 
 ```text
 git clone https://github.com/bigchaindb/bigchaindb.git
